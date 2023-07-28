@@ -1,1 +1,2 @@
-# shoesApp
+# shoesApp - Projeto
+
